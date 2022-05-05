@@ -1,0 +1,2 @@
+SDL2-2.0.22 x86_64-w64-mingw32
+Download the most recent version at http://www.libsdl.org/download-2.0.php (MinGW 32/64-bit Development Library)
